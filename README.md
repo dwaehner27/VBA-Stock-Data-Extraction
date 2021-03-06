@@ -1,4 +1,4 @@
-# vba-challenge and excel picture
+# VBA Stock Data Extraction
 vba hw
 This is my VBA Challenge HW - the task was to:
 Create a script that will loop through all the stocks for one year and output the following information:
