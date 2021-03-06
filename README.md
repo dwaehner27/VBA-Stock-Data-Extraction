@@ -1,7 +1,6 @@
 # VBA Stock Data Extraction
-vba hw
-This is my VBA Challenge HW - the task was to:
-Create a script that will loop through all the stocks for one year and output the following information:
+
+## Goal: Take the overall stock data by year, clean it, take key indicators, and input in seperate column in sheet.
 
 The ticker symbol.
 Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
