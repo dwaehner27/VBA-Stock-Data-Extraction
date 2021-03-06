@@ -2,7 +2,7 @@
 
 ## Goal: Take the overall stock data by year, clean it, take key indicators, and input in seperate column in sheet.
 
-Data provided: tickers, daily open, daily low, daily high, daily close
+Data provided: tickers, date, daily open, daily low, daily high, daily close
 The ticker symbol.
 Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
